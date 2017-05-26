@@ -1,0 +1,10 @@
+### Pony-Forum
+Django==1.11
+
+
+
+
+# Functional Testing:
+##selenium==2.33.0 - func tests disabled for now
+##Firefox - install this yourself, if using func tests
+##PyVirtualDisplay==0.1.2 - func tests disabled for now
