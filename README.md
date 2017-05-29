@@ -9,6 +9,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/amokrane-zatout/AppCoursInteractive/badge.svg?branch=master)](https://coveralls.io/github/amokrane-zatout/AppCoursInteractive?branch=master) | [![Coverage Status](https://coveralls.io/repos/github/amokrane-zatout/AppCoursInteractive/badge.svg?branch=develop)](https://coveralls.io/github/amokrane-zatout/AppCoursInteractive?branch=develop)
 
 AppCoursInteractive est une application Web responsive interactive entre professeurs et étudiants en amphi, elle a les fonctionnalités suivantes:
-Possibilité pour le professeur de charger des sondages dans l'application accessibles par les étudiants.
-Possibilité pour les étudiants de répondre à ces sondages et de noter le cours pendant toute sa durée avec des smileys.
-Les résultats des sondages et les notes des étudiants sont affichés dynamiquement en temps réel.
+
+  - Possibilité pour le professeur de charger des sondages dans l'application accessibles par les étudiants.
+  - Possibilité pour les étudiants de répondre à ces sondages et de noter le cours pendant toute sa durée avec des smileys.
+  - Les résultats des sondages et les notes des étudiants sont affichés dynamiquement en temps réel.
