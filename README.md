@@ -8,6 +8,9 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5c877b5c585048d98fcae1483d62565a)](https://www.codacy.com/app/amokrane.zatout/AppCoursInteractive?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=amokrane-zatout/AppCoursInteractive&amp;utm_campaign=Badge_Grade) 
 
+[![Coverage Status](https://coveralls.io/repos/github/amokrane-zatout/AppCoursInteractive/badge.svg?branch=master)](https://coveralls.io/github/amokrane-zatout/AppCoursInteractive?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/amokrane-zatout/AppCoursInteractive/badge.svg?branch=develop)](https://coveralls.io/github/amokrane-zatout/AppCoursInteractive?branch=develop)
+
 AppCoursInteractive est une application Web responsive proposant des sondages disponibles grâce à un code diffusé par le professeur qui permettra aux étudiants d’y accéder.
 L’application proposera environ 5 questions définies au préalable par le professeur, avec divers formats.
 La première IHM proposera une liste des sondages disponibles pour le cours.
