@@ -25,12 +25,14 @@ install:
 
 
 
+
+
 before_script:
  # - psql -c "CREATE DATABASE travisdb;" -U postgres
 
 
 script:
-  - vagrant up
+
   - python3.5 manage.py migrate --noinput
   - coverage run --source=AppCoursInteractive, manage.py test
 
